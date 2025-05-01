@@ -1,4 +1,5 @@
 # props-vue
+*Use Node 16*
 
 ## Project setup
 ```
